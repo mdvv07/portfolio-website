@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "start": "node aboutus.html"
+  },
+}
+
+{
   "dependencies": {
     "ip-cidr": "^4.0.2",
     "node-fetch": "^3.3.2"
