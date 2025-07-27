@@ -1,12 +1,12 @@
 {
+  "name": "portfolio-website",
+  "version": "1.0.0",
   "scripts": {
-    "start": "node aboutus.html"
+    "start": "serve ."
   },
-}
-
-{
   "dependencies": {
     "ip-cidr": "^4.0.2",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "serve": "^14.2.0"
   }
 }
